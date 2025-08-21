@@ -1,0 +1,19 @@
+1.  1 ---   Having used after grouping to filter the group
+
+2.  2 ---   Right join perform all the values from the right table that not have null in them , Left join do the same,but on the left table
+
+3.  1 ---   to prevant duplicate values
+
+4.  2 ---   LIMIT
+
+5.  5 ---   Foreign key used to link from column in one table to existing (column)table
+
+6.  2 ---   ON DELETE CASCADE used to delete all the connected column to the Foreign key(only if apllied on parent table)  
+
+7.  4 ---   When you COUNT(column) all the column that is not null will be counted
+
+8.  1 ---   when you insert values if no values has provided the DEFAULT will show up like the DEFAULT VALUE IN THE CRAETE CONSTRIAN
+
+9.  4 ---   Full JOIN
+
+10.  1 --   Check is like 'if the value... insert' 
